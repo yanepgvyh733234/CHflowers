@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to CWine
 
-You can use the [editor on GitHub](https://github.com/yanepgvyh733234/CHflowers/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](1024.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I have never seen such a beautiful flower. 
+I saw that the top is pink, and the lighter the inside, the more almost white. 
+The flower is quite straight and yellow, just like a flagpole, standing tall in people's hearts. Every flower is like a small boat, and the big sail is raised, and it is going far.
 
-### Markdown
+We will improve more features as soon as possible to improve the user experience.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Email address: staniforthiovxhg@gmail.com
 
-```markdown
-Syntax highlighted code block
+Thank you very much!
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yanepgvyh733234/CHflowers/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
